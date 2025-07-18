@@ -20,10 +20,11 @@ A full-featured **Expense Tracking Web Application** built with **Laravel**, all
 
 ## 🛠 Tech Stack
 
-- **Backend:** Laravel 10 (PHP)
-- **Frontend:** Blade + Tailwind CSS (via Vite)
+- **Backend:** Laravel 10 (PHP), Laravel Artisan, Eloquent ORM
+- **Frontend:** Blade (HTML), CSS, Tailwind CSS, JavaScript (optional)
+- **Languages Used:** PHP, HTML, CSS
 - **Database:** MySQL
-- **Package Manager:** Composer, NPM
+- **Package Manager:** Composer (PHP), NPM (JS & CSS Assets)
 - **Other Tools:** Laravel Artisan, Eloquent ORM
 
 ---
